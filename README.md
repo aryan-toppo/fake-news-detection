@@ -6,7 +6,7 @@
 
 ## 🚀 Projects
 - Fake News Detection System (ML/NLP)
-- Cybersecurity Notes & Learning Content
+
 
 ## 🛠 Skills
 Cybersecurity Fundamentals • AI/ML Basics • Python • Git/GitHub • Canva
